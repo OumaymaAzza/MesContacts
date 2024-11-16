@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/macouleurprimaire</item>
+
+
+    </style>
+    <style name="MyActivityTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/macouleurprimaire</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@android:color/white"
+    android:layout_gravity="center">
+
+    <!-- Bouton Appeler -->
+    <LinearLayout
+        android:id="@+id/callOption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="12dp"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:src="@drawable/baseline_call_24"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginEnd="8dp" />
+
+        <TextView
+            android:id="@+id/callText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Appeler"
+            android:textSize="16sp"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+
+    <!-- Bouton SMS -->
+    <LinearLayout
+        android:id="@+id/smsOption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="12dp"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:src="@drawable/baseline_sms_24"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginEnd="8dp" />
+
+        <TextView
+            android:id="@+id/smsText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Envoyer un message"
+            android:textSize="16sp"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+</LinearLayout>

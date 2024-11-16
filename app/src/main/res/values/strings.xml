@@ -1,0 +1,8 @@
+<resources>
+    <string name="recherche">Rechercher dans vos contacts</string>
+    <string name="app_name">MesContacts</string>
+    <string name="mes_contacts" translatable="false">Mes Contacts</string>
+    <string name="call">Appel</string>
+    <string name="sms">Sms\n</string>
+    <string name="hello_message">Bonjour</string>
+</resources>

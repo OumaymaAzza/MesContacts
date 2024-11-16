@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="macouleurprimaire">#25306A</color>
+
+
+<color name="color_A">#FF5722</color>
+<color name="color_B">#4CAF50</color> <!-- Exemple pour la lettre 'B' -->
+<color name="color_C">#2196F3</color> <!-- Exemple pour la lettre 'C' -->
+<color name="color_D">#9C27B0</color> <!-- Exemple pour la lettre 'D' -->
+<color name="color_E">#00BCD4</color> <!-- Exemple pour la lettre 'E' -->
+<color name="color_F">#FFEB3B</color> <!-- Exemple pour la lettre 'F' -->
+<color name="color_G">#8BC34A</color> <!-- Exemple pour la lettre 'G' -->
+<color name="color_H">#FF9800</color> <!-- Exemple pour la lettre 'H' -->
+<color name="color_I">#607D8B</color> <!-- Exemple pour la lettre 'I' -->
+<color name="color_J">#FF5722</color> <!-- Exemple pour la lettre 'J' -->
+<color name="color_K">#4CAF50</color> <!-- Exemple pour la lettre 'K' -->
+<color name="color_L">#9C27B0</color> <!-- Exemple pour la lettre 'L' -->
+<color name="color_M">#00BCD4</color> <!-- Exemple pour la lettre 'M' -->
+<color name="color_N">#FFEB3B</color> <!-- Exemple pour la lettre 'N' -->
+<color name="color_O">#8BC34A</color> <!-- Exemple pour la lettre 'O' -->
+<color name="color_P">#FF9800</color> <!-- Exemple pour la lettre 'P' -->
+<color name="color_Q">#607D8B</color> <!-- Exemple pour la lettre 'Q' -->
+<color name="color_R">#FF5722</color> <!-- Exemple pour la lettre 'R' -->
+<color name="color_S">#4CAF50</color> <!-- Exemple pour la lettre 'S' -->
+<color name="color_T">#9C27B0</color> <!-- Exemple pour la lettre 'T' -->
+<color name="color_U">#00BCD4</color> <!-- Exemple pour la lettre 'U' -->
+<color name="color_V">#FFEB3B</color> <!-- Exemple pour la lettre 'V' -->
+<color name="color_W">#8BC34A</color> <!-- Exemple pour la lettre 'W' -->
+<color name="color_X">#FF9800</color> <!-- Exemple pour la lettre 'X' -->
+<color name="color_Y">#607D8B</color> <!-- Exemple pour la lettre 'Y' -->
+<color name="color_Z">#FF5722</color> <!-- Exemple pour la lettre 'Z' -->
+<!-- Couleur par défaut -->
+<color name="defaultColor">#B0BEC5</color> <!-- Gris clair -->
+</resources>
